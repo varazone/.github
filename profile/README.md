@@ -4,4 +4,4 @@
 
 项目模板: [template](https://github.com/varazone/template)
 
-讨论专区: [discussions](https://github.com/org/varazone/discussions)
+讨论专区: [discussions](https://github.com/orgs/varazone/discussions)
